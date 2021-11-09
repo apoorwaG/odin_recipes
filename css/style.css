@@ -1,0 +1,26 @@
+.text-center {
+    text-align: center;
+}
+
+.spicy-background {
+    background-color: rgba(238, 183, 81, 0.74);
+}
+
+.colored-heading,
+.green-heading {
+    color:darkgreen;
+}
+
+.colored-subheading {
+    color:rgba(243, 85, 85, 0.74)
+}
+
+body {
+    font-family: Garamond, Verdana, serif;
+    background-color: rgb(154, 243, 166);
+}
+
+h1, h3 {
+    font-family: "Lucida Console", "Monaco", monospace;
+}
+
